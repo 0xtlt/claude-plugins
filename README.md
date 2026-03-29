@@ -11,7 +11,7 @@ Personal Claude Code plugin marketplace by Thomas Tastet.
 ## Installation
 
 ```
-/plugin marketplace add thomastastet/claude-plugins
+/plugin marketplace add 0xtlt/claude-plugins
 ```
 
 Then install plugins via `/plugin`.
