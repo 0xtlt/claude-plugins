@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins",
+  "name": "0xtlt-plugins",
   "metadata": {
     "description": "Thomas Tastet's Claude Code plugins",
     "version": "1.0.0"
