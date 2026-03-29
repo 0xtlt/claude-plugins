@@ -1,0 +1,11 @@
+{
+  "tailwindcss": {
+    "command": "tailwind-lsp-adapter",
+    "extensionToLanguage": {
+      ".css": "css",
+      ".html": "html",
+      ".jsx": "javascriptreact",
+      ".tsx": "typescriptreact"
+    }
+  }
+}

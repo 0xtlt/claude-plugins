@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugins",
+  "metadata": {
+    "description": "Thomas Tastet's Claude Code plugins",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "Thomas Tastet",
+    "url": "https://github.com/thomastastet"
+  },
+  "plugins": [
+    {
+      "name": "tailwindcss-lsp",
+      "version": "1.0.0",
+      "source": "./tailwindcss-lsp",
+      "description": "Tailwind CSS language server via tailwind-lsp-adapter",
+      "category": "development",
+      "tags": ["lsp", "tailwindcss", "css"]
+    }
+  ]
+}
