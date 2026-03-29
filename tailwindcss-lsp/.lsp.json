@@ -1,7 +1,6 @@
 {
   "tailwindcss": {
-    "command": "bash",
-    "args": ["${CLAUDE_PLUGIN_ROOT}/bin/run.sh"],
+    "command": "tailwind-lsp-adapter",
     "extensionToLanguage": {
       ".css": "css",
       ".html": "html",
